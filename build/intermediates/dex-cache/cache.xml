@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/349305e1aa313502b3c798ac6ae2216d313ea7a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b1ffc332575271ddde912b88c285c91e9f4a528/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/3c82639551645caaed2c7c4c8e7343bb55ce799f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8661779c390f92b086e24935e3b6187f0320d44/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/1002dfb00e04d1cdffb0fc24054031498a1f63fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_0ce3ce56806b82abf4aa4793a3c11845608d17e8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_95846c463894b6da85050381ecd6c842ab7ee5ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/91a0263c34d3f7cba790ea58793922a3170d1adf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10676bfd544d048a84b682584d722d51ea2b1e80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/eb76eedcc8aa37070cfbd005ff59067c131742af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6e7c506ad4f2de35ab25c8e3107974005f664e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/2073126dd749f67347c88e07f38d61916deac000/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6cfe119a4d5986e4a93f4d14909f55871a601271">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_f214e0a7911dce6a03a1bfd313c231af9a90cc82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/296c4500b0fffca283e5c3026f769a42c22c26a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_a307f501a1807cbe5a0f83ba91b7ec74e4d6a96c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/72ade04f4386a98540c2d9aa0e7f444aa855a003/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="474cccf169297d49fff89fd35b7634a7a9d1031c">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e22617558b2de91fbe3be0833bf55bc2be106907/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/b61a43a676298dd5c94b5e58d7c515191fb640b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b7f909bc7b22c067ab8ab06d276dedf062374f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/3545f51b2cc7835bfe0cbc78e1e20f51b1d29b8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_202dee7f69bb70dd8943141cf4f45b17eb28795d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/3c82639551645caaed2c7c4c8e7343bb55ce799f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_c8661779c390f92b086e24935e3b6187f0320d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/c5ac7ed776ac444d2cbedf5e7201c78dea107d4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_3e9fbd0e2f289f961bc5d7380e455f329bdfcb2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/b61a43a676298dd5c94b5e58d7c515191fb640b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_9b7f909bc7b22c067ab8ab06d276dedf062374f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/Games/SpinRoad/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6201ed9e4bbcd9408268624b3d43128779269b69">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/4/core-1.0_f49509e28fca151492dcfeede72444ce284f6724/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/ad201341d35221cdf371717823656eee175071a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_cad8e492a1d636786dabec3a74ea0805200c9e28.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/fe509053c0f73c1df0003eb2b013d223474a2877/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2662895f7749da7ad53a8066eb972e125daa7714/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/6dda0c5d3534b85b6d83c67de908610d5c379650/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26d4d6f79584ec633237d4c154ef6e507db92e25">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_111e834b86fe37a666924c570cb9928bcda683b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/ad201341d35221cdf371717823656eee175071a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cad8e492a1d636786dabec3a74ea0805200c9e28/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/0cdcc50744043083abb3b122d1a52e23197820b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_ef2f45448a842b9b753d6e265c135fcb194286fb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dac810c65ceccbe25f9e3498caa72d12ba2ea11b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/0cdcc50744043083abb3b122d1a52e23197820b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef2f45448a842b9b753d6e265c135fcb194286fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_dac810c65ceccbe25f9e3498caa72d12ba2ea11b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/6bb43c0abf1816e0f2440bebc4d43524bf9da482/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_dc120dcbcc9cdd97da0390a02fa5945e1fe4bdde.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/75362f8ae747f15110a91040b770b45f4e8e3ae6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b072f746e44efcb3acd9098cc9030c3b7e4acd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/da1328dac4c10febe1f2ff78ff9d06ed83594a0d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0186e47899b989050b3a4a67e2bda991de3d9f38/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/da1328dac4c10febe1f2ff78ff9d06ed83594a0d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_0186e47899b989050b3a4a67e2bda991de3d9f38.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/df6ff17839dca65ea308731bc814161f30bf3803/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_883d2932ff78a688c53a7807f9d727bd109cbd11/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/eb76eedcc8aa37070cfbd005ff59067c131742af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_a6e7c506ad4f2de35ab25c8e3107974005f664e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/Games/SpinRoad/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2080ff0ecdcd526b5d451413c2e53847c3d1d20">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/core-1.0_f49509e28fca151492dcfeede72444ce284f6724.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/34df1ede0f869b199d164895fe4cea0c12da25ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a50511df661640e934686d0451877a95e417a383/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/fe509053c0f73c1df0003eb2b013d223474a2877/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_2662895f7749da7ad53a8066eb972e125daa7714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/gdx-1.9.6_b72dd6391058e6fff39725a765e13965a6fc8bd9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.6_b72dd6391058e6fff39725a765e13965a6fc8bd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_247f7bc0b6279c0db1b50f3b47db12b9d5d5b409/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/e8bb12c433f7d00f9877334d5e2819100d51aad2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45326f96cf83c8bd4e56ff30fa2c75d5351bd22a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/a08e2e07d910f0c6d3cf2369c574455e8815c939/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_610c2b34228a715d896a83f1747c50d2c3d72308/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/e8bb12c433f7d00f9877334d5e2819100d51aad2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_45326f96cf83c8bd4e56ff30fa2c75d5351bd22a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/ea4df7477a7a087248ca715d78333948b2f648e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55231d810b16ceef3b7008af2b0abe418b466856/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/cb6831883ad9f294be7f2dead5461b9ddd1878a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_d1f7684c1cb87049f716a6051f0e8090b133ffdc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/cb6831883ad9f294be7f2dead5461b9ddd1878a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1f7684c1cb87049f716a6051f0e8090b133ffdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/49b4daa90ddca3d2c409bae8df43b1a0767dad74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffde64dbb0fc07c8b9735c6c42a06a36be15ed13">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e36bf7631a5c30ecd9937436bbb7f7b0d1c506a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/b0ae2edac764b8dd237f84a8670f5d5ded8edd49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_933ae3c02891e4aad9ed27f1be7d59549935d834/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/49b4daa90ddca3d2c409bae8df43b1a0767dad74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffde64dbb0fc07c8b9735c6c42a06a36be15ed13">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_0e36bf7631a5c30ecd9937436bbb7f7b0d1c506a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/f12b35db11c313860dee56281e06301c329d47e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_725a4be7e0890367507d1eaff1467d75e2e6011a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/6aa09504bbfc6643a251921f8bee15060e42dd20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01ef3bbb7a02081a26e615b9919c1294939a6af6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/3545f51b2cc7835bfe0cbc78e1e20f51b1d29b8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_202dee7f69bb70dd8943141cf4f45b17eb28795d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_e53852f988893b699a71c5c2f0c8119f9941914c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/30596c65099630f8f7b4463f212c741f54265d28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a102b447c2f9efa343d0a95797c51e039a55cd5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/8d324d3a6419cccc98233bf06735b29c6c1ed3cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50b0f6dbd53d20eeb21b73937c8472153c193479/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/21354032763e94571f2f7d4dbac522f56593af36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a98416a53f0afdfed095e5ea023798b42927552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/c5ac7ed776ac444d2cbedf5e7201c78dea107d4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e9fbd0e2f289f961bc5d7380e455f329bdfcb2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/b34b8632a50cea7f8821e57f40ac4372511f9a5e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_270b507a5d87a298b9f0a8d1d08fcf3571f708a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/30596c65099630f8f7b4463f212c741f54265d28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_a102b447c2f9efa343d0a95797c51e039a55cd5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/8d324d3a6419cccc98233bf06735b29c6c1ed3cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_50b0f6dbd53d20eeb21b73937c8472153c193479.jar" />
+    </item>
+    <item
+        jar="/Users/lucker/Games/SpinRoad/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="32df0453aaea5c4abeee960572c4b8b6b28a3b9e">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/core-1.0_f49509e28fca151492dcfeede72444ce284f6724.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/2e1142f01e17fb5d0f7eb7231b9ce9194d6a37c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_300b56dbf59832890443bd96c3996b8e84d9c22e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/5f35068b245f0c6a3c4f67a6a4fa23cd2d9c0e03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_00354769bbe0f43981df8e26fbf6755c2c21d717.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f0390ed15b45c56bc2ac869bd8d555a1a2e6786/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/e9e610ae1f519f0a43cecb3a466a694e67a52209/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_b27a238ee37054e16afb76952f28928f18f5eb91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/2a44d389e0e8cd119b7df5c48bfec586fa24d0f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3d9c3425c14a332dca7970314258d91817bc7ebf">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_73da75de6b28a9066485577792fb5786bf0b83bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.6_2ef46a09c8935df0d7bf724e21c638659c3fad34.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/e9e610ae1f519f0a43cecb3a466a694e67a52209/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b27a238ee37054e16afb76952f28928f18f5eb91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/1002dfb00e04d1cdffb0fc24054031498a1f63fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ce3ce56806b82abf4aa4793a3c11845608d17e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/f84af2fb5a4dbe5e17b5694a037bdba63c02973c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10870d5707e125138b00909d8b9b1ed313c86e96/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/21354032763e94571f2f7d4dbac522f56593af36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_0a98416a53f0afdfed095e5ea023798b42927552.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.6_2ef46a09c8935df0d7bf724e21c638659c3fad34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucker/.android/build-cache/55fdf8c2973a4c6271a61597d2f7ac873ccc82a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c08deb024d631cdea2fc20a5308382eefee79e6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucker/.android/build-cache/ea4df7477a7a087248ca715d78333948b2f648e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="/Users/lucker/Games/SpinRoad/android/build/intermediates/pre-dexed/debug/classes_55231d810b16ceef3b7008af2b0abe418b466856.jar" />
+    </item>
+
+</items>

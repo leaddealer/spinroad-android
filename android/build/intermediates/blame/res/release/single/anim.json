@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/fadein2.xml",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/anim/fadein2.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/fadein.xml",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/fadeout.xml",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/anim/fadeout.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/anim/abc_slide_in_top.xml"
+    }
+]

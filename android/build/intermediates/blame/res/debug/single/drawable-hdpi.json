@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/pause_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/pause_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/spinner_pause_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/spinner_pause_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/close_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/close_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/reset.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/reset.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/arrow_back_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/arrow_back_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/spiners.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/spiners.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/spiners.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/spiners.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/arrow_back_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/arrow_back_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/spinner_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/spinner_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/spinner_pause_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/spinner_pause_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/spinner.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/spinner.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/newitemsinshop.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/newitemsinshop.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/close.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/close.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/reset.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/reset.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/ads_button_shop_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/ads_button_shop_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/buy.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/buy.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/backgrounds_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/backgrounds_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/vapes_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/vapes_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/playmain.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/playmain.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/vapes.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/vapes.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/vapes.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/vapes.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/spinner.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/spinner.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/home_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/home_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/playmain_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/playmain_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/shop_current.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/shop_current.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/ads_button_shop.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/ads_button_shop.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/backgrounds_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/backgrounds_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/spinner_pause.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/spinner_pause.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/resume_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/resume_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/close.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/close.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/reset_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/reset_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/newitemsinshop.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/newitemsinshop.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/spinner_pause.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/spinner_pause.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/resume.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/resume.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/arrow_back.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/arrow_back.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/spiners_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/spiners_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/home_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/home_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/resume.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/resume.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/head.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/head.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/shop_empty.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/shop_empty.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/shop_current.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/shop_current.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/score_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/score_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/shop_empty.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/shop_empty.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/life.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/life.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/buy.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/buy.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/arrow_forward_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/arrow_forward_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/backgrounds.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/backgrounds.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/arrow_forward.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/arrow_forward.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/home.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/resume_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/resume_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/ads_button_shop.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/ads_button_shop.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/ads_button_shop_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/ads_button_shop_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/life.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/life.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/spiners_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/spiners_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/arrow_forward_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/arrow_forward_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/coin.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/coin.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/home.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/score.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/score.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/shileds.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/shileds.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/score_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/score_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/arrow_forward.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/arrow_forward.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/close_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/close_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/score.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/score.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/head.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/head.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/pause_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/pause_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/shileds_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/shileds_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/coin.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/coin.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/playmain.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/playmain.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/reset_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/reset_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/vapes_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/vapes_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/backgrounds.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/backgrounds.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/shileds.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/shileds.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/playmain_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/playmain_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/arrow_back.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/arrow_back.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/pause.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/pause.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-hdpi/shileds_pushed.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-hdpi/shileds_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/spinner_pushed.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/spinner_pushed.png"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-hdpi/pause.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-hdpi/pause.png"
+    }
+]

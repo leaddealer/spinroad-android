@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/res/color-v23/design_tint_password_toggle.xml"
+    }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpinSpace</string>
+    <string name="no_video">No video available</string>
+    <string name="facebook_app_id">1511791882214958</string>
+    <string name="fb_login_protocol_scheme">fb1511791882214958</string>
+
+    <string name="tutorial_first1">swipe your spinner to avoid obstacles</string>
+    <string name="tutorial_first2">power-ups:</string>
+    <string name="tutorial_first3">- smoothie (shield)</string>
+    <string name="tutorial_first4">- vape (slow down)</string>
+</resources>

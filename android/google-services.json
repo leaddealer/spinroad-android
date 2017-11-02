@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "998016351622",
+    "firebase_url": "https://spinspace-489b8.firebaseio.com",
+    "project_id": "spinspace-489b8",
+    "storage_bucket": "spinspace-489b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998016351622:android:1f02a4b49b9a0a2d",
+        "android_client_info": {
+          "package_name": "com.leaddealer.spinspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998016351622-o1iqp8gqui21t69q4h4a7kh6jdqgnip0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leaddealer.spinspace",
+            "certificate_hash": "f8c0dd499b74ec2c7e14de41c347165a0f98f464"
+          }
+        },
+        {
+          "client_id": "998016351622-jf3rum010lv5afh6m685s6e9r1d8evap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATTntzOAQdO65R7TUFPx6_-jFS2E-9c1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998016351622-dhnrgdcdptvkt7bpl71s9m9gjsj6p736.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.leaddealer.spinroad"
+              }
+            },
+            {
+              "client_id": "998016351622-jf3rum010lv5afh6m685s6e9r1d8evap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/res/layout-v21/notification_action.xml"
+    }
+]

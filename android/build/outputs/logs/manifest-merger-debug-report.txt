@@ -1,0 +1,509 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:2:1-158:12
+	package
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml
+		INJECTED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml
+		INJECTED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml
+		INJECTED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:7:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/lucker/.android/build-cache/1f9d0f6d8c003aae46b5c9c0f2474201fd0b23f0/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/lucker/.android/build-cache/c5217957c8bac8d5b3a2fc1e481294ed3dc9ec7e/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:7:22-64
+uses-permission#com.android.vending.BILLING
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:10:5-156:19
+MERGED from [com.android.support:design:25.3.1] /Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/lucker/.android/build-cache/21354032763e94571f2f7d4dbac522f56593af36/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.2] /Users/lucker/.android/build-cache/0e2a182f394c77f545b4e216d56f0e1d761e928d/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-ads:11.0.2] /Users/lucker/.android/build-cache/0c46f36a375aa484f0ad3f89362d45cdbe5b75f8/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/lucker/.android/build-cache/1f9d0f6d8c003aae46b5c9c0f2474201fd0b23f0/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.2] /Users/lucker/.android/build-cache/1597cdc4ac6bcd55571350f095e515b34f54d141/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.2] /Users/lucker/.android/build-cache/42955ced95f8f2600cf0b4934545a650eba61392/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.2] /Users/lucker/.android/build-cache/989e8c1ce56f82f324d6716af5e88628da55a23f/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/lucker/.android/build-cache/c5217957c8bac8d5b3a2fc1e481294ed3dc9ec7e/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-auth:11.0.2] /Users/lucker/.android/build-cache/20021dcee7fb9721700bc6776814ed344f0742f5/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/lucker/.android/build-cache/6c1bd59157140cef5f0cea2e10f4d656b5beb40b/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.2] /Users/lucker/.android/build-cache/9eb0969a9bac9a2bf45794e68c056132a2d87e5b/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.2] /Users/lucker/.android/build-cache/5d6d3a5a249cbc1b18ab0adf7331a0e78201c527/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/lucker/.android/build-cache/f576e85f4da7cc5484bfeb595ae5b47504b17829/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/lucker/.android/build-cache/cba2c489ba4921b2dbd47e7d96db2c4a52109aa6/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/lucker/.android/build-cache/594caeae0e3eddc1219fa6512ed66163dd02cea1/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/lucker/.android/build-cache/5ed210bce6727369d11384832596cedfb5584924/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/lucker/.android/build-cache/07f135937c425c1812728c88c4b4a4948c4d2913/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/lucker/.android/build-cache/e09230f7da90695007907538d6ec17a8b60ba813/output/AndroidManifest.xml:28:5-34:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/lucker/.android/build-cache/b0ae2edac764b8dd237f84a8670f5d5ded8edd49/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/lucker/.android/build-cache/f12b35db11c313860dee56281e06301c329d47e1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/lucker/.android/build-cache/f84af2fb5a4dbe5e17b5694a037bdba63c02973c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /Users/lucker/.android/build-cache/2e1142f01e17fb5d0f7eb7231b9ce9194d6a37c4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/lucker/.android/build-cache/34df1ede0f869b199d164895fe4cea0c12da25ad/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/lucker/.android/build-cache/349305e1aa313502b3c798ac6ae2216d313ea7a3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/lucker/.android/build-cache/6aa09504bbfc6643a251921f8bee15060e42dd20/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/lucker/.android/build-cache/b34b8632a50cea7f8821e57f40ac4372511f9a5e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.android:facebook-places:4.27.0] /Users/lucker/.android/build-cache/40640c1dbf003dd93cf9310be23224c548420333/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /Users/lucker/.android/build-cache/b893f8d114d88dfb51992202dffbefdeeca94164/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/lucker/.android/build-cache/514bdb886d357e67777395cc669d00bc80afdeb2/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/lucker/.android/build-cache/584192dab2114e9f40d73be5d84b1e71f1a577d9/output/AndroidManifest.xml:28:5-43:19
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/lucker/.android/build-cache/91a0263c34d3f7cba790ea58793922a3170d1adf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/lucker/.android/build-cache/a08e2e07d910f0c6d3cf2369c574455e8815c939/output/AndroidManifest.xml:29:5-20
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/lucker/.android/build-cache/49b4daa90ddca3d2c409bae8df43b1a0767dad74/output/AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/lucker/.android/build-cache/594caeae0e3eddc1219fa6512ed66163dd02cea1/output/AndroidManifest.xml:28:18-44
+	android:allowBackup
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:12:9-45
+	android:theme
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:14:9-33
+activity#com.leaddealer.spinroad.MainActivity
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:17:9-43:20
+	android:screenOrientation
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:19:13-45
+	android:launchMode
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:21:13-44
+	android:configChanges
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:22:13-83
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:18:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:25:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:29:13-34:29
+data
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:30:17-72
+	android:host
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:30:50-69
+	android:scheme
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:30:23-49
+action#android.intent.action.VIEW
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:31:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:32:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:33:27-75
+meta-data#io.branch.sdk.BranchKey
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:46:9-119
+	android:value
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:46:59-116
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:46:20-58
+meta-data#io.branch.sdk.BranchKey.test
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:47:9-124
+	android:value
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:47:64-121
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:47:20-63
+meta-data#io.branch.sdk.TestMode
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:50:9-82
+	android:value
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:50:58-79
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:50:20-57
+receiver#io.branch.referral.InstallListener
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:53:9-57:20
+	android:exported
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:53:69-92
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:53:19-68
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:54:13-56:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:55:17-79
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:55:25-76
+activity#com.leaddealer.spinroad.activities.FinalScreenActivity
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:59:9-65:20
+	android:screenOrientation
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:61:13-45
+	android:configChanges
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:63:13-83
+	android:theme
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:64:13-71
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:60:13-59
+activity#com.leaddealer.spinroad.activities.ShopActivity
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:67:9-73:20
+	android:screenOrientation
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:70:13-49
+	android:label
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:69:13-45
+	android:configChanges
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:71:13-83
+	android:theme
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:72:13-71
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:68:13-52
+activity#com.leaddealer.spinroad.activities.SpinnersActivity
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:75:9-81:20
+	android:screenOrientation
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:77:13-45
+	android:configChanges
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:79:13-83
+	android:theme
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:80:13-71
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:76:13-56
+activity#com.leaddealer.spinroad.activities.BackgroundActivity
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:83:9-89:20
+	android:screenOrientation
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:85:13-45
+	android:configChanges
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:87:13-83
+	android:theme
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:88:13-71
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:84:13-58
+activity#com.leaddealer.spinroad.activities.ShieldsActivity
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:91:9-97:20
+	android:screenOrientation
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:94:13-49
+	android:label
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:93:13-45
+	android:configChanges
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:95:13-83
+	android:theme
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:96:13-71
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:92:13-55
+activity#com.leaddealer.spinroad.activities.VapesActivity
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:99:9-105:20
+	android:screenOrientation
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:102:13-49
+	android:label
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:101:13-45
+	android:configChanges
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:103:13-83
+	android:theme
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:104:13-71
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:100:13-53
+activity#com.leaddealer.spinroad.activities.HighscoreActivity
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:107:9-113:20
+	android:screenOrientation
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:110:13-49
+	android:label
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:109:13-45
+	android:configChanges
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:111:13-83
+	android:theme
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:112:13-71
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:108:13-57
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:115:9-107
+	android:value
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:115:66-105
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:115:20-65
+activity#com.facebook.FacebookActivity
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:119:9-122:54
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/lucker/.android/build-cache/e09230f7da90695007907538d6ec17a8b60ba813/output/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:122:19-51
+	android:configChanges
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:120:19-125
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /Users/lucker/.android/build-cache/e09230f7da90695007907538d6ec17a8b60ba813/output/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:119:19-63
+activity#com.facebook.CustomTabActivity
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:124:9-133:20
+	android:exported
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:126:13-36
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:125:13-58
+service#com.leaddealer.spinroad.messaging.MessagingService
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:135:9-140:19
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:136:13-55
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:137:13-139:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:138:17-77
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:138:25-75
+service#com.leaddealer.spinroad.messaging.InstanceIdService
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:142:9-147:19
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:143:13-56
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:144:13-146:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:145:17-79
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:145:25-77
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:149:9-151:60
+	android:resource
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:151:13-57
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:150:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:153:9-155:52
+	android:resource
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:155:13-49
+	android:name
+		ADDED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml:154:13-84
+uses-sdk
+INJECTED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /Users/lucker/.android/build-cache/df6ff17839dca65ea308731bc814161f30bf3803/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:25.3.1] /Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/lucker/.android/build-cache/3545f51b2cc7835bfe0cbc78e1e20f51b1d29b8b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/lucker/.android/build-cache/21354032763e94571f2f7d4dbac522f56593af36/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.0.2] /Users/lucker/.android/build-cache/0e2a182f394c77f545b4e216d56f0e1d761e928d/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-ads:11.0.2] /Users/lucker/.android/build-cache/0c46f36a375aa484f0ad3f89362d45cdbe5b75f8/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.2] /Users/lucker/.android/build-cache/f2ffebf9f1abaca6cdc46728ed7dc6b1ccd1b5cc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/lucker/.android/build-cache/1f9d0f6d8c003aae46b5c9c0f2474201fd0b23f0/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.2] /Users/lucker/.android/build-cache/1597cdc4ac6bcd55571350f095e515b34f54d141/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.2] /Users/lucker/.android/build-cache/42955ced95f8f2600cf0b4934545a650eba61392/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.2] /Users/lucker/.android/build-cache/989e8c1ce56f82f324d6716af5e88628da55a23f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/lucker/.android/build-cache/c5217957c8bac8d5b3a2fc1e481294ed3dc9ec7e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.2] /Users/lucker/.android/build-cache/20021dcee7fb9721700bc6776814ed344f0742f5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/lucker/.android/build-cache/6c1bd59157140cef5f0cea2e10f4d656b5beb40b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.2] /Users/lucker/.android/build-cache/67936cb014f7f020c83038a3671067247dafbe56/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.2] /Users/lucker/.android/build-cache/4d796d2643e30a99376d7b8a699033643771d9ab/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.2] /Users/lucker/.android/build-cache/9eb0969a9bac9a2bf45794e68c056132a2d87e5b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.2] /Users/lucker/.android/build-cache/5d6d3a5a249cbc1b18ab0adf7331a0e78201c527/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/lucker/.android/build-cache/f576e85f4da7cc5484bfeb595ae5b47504b17829/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/lucker/.android/build-cache/cba2c489ba4921b2dbd47e7d96db2c4a52109aa6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /Users/lucker/.android/build-cache/55fdf8c2973a4c6271a61597d2f7ac873ccc82a7/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/lucker/.android/build-cache/594caeae0e3eddc1219fa6512ed66163dd02cea1/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/lucker/.android/build-cache/5ed210bce6727369d11384832596cedfb5584924/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/lucker/.android/build-cache/07f135937c425c1812728c88c4b4a4948c4d2913/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/lucker/.android/build-cache/e09230f7da90695007907538d6ec17a8b60ba813/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/lucker/.android/build-cache/b0ae2edac764b8dd237f84a8670f5d5ded8edd49/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/lucker/.android/build-cache/f12b35db11c313860dee56281e06301c329d47e1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/lucker/.android/build-cache/f84af2fb5a4dbe5e17b5694a037bdba63c02973c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] /Users/lucker/.android/build-cache/2e1142f01e17fb5d0f7eb7231b9ce9194d6a37c4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/lucker/.android/build-cache/34df1ede0f869b199d164895fe4cea0c12da25ad/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/lucker/.android/build-cache/349305e1aa313502b3c798ac6ae2216d313ea7a3/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/lucker/.android/build-cache/6aa09504bbfc6643a251921f8bee15060e42dd20/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/lucker/.android/build-cache/b34b8632a50cea7f8821e57f40ac4372511f9a5e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.android:facebook-places:4.27.0] /Users/lucker/.android/build-cache/40640c1dbf003dd93cf9310be23224c548420333/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /Users/lucker/.android/build-cache/b893f8d114d88dfb51992202dffbefdeeca94164/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/lucker/.android/build-cache/514bdb886d357e67777395cc669d00bc80afdeb2/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/lucker/.android/build-cache/584192dab2114e9f40d73be5d84b1e71f1a577d9/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/lucker/.android/build-cache/91a0263c34d3f7cba790ea58793922a3170d1adf/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/lucker/.android/build-cache/a08e2e07d910f0c6d3cf2369c574455e8815c939/output/AndroidManifest.xml:21:5-23:58
+MERGED from [io.branch.sdk.android:library:2.13.1] /Users/lucker/.android/build-cache/bef990819ed5a5f47443b95d18022871cca94177/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/lucker/.android/build-cache/49b4daa90ddca3d2c409bae8df43b1a0767dad74/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml
+		INJECTED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml
+		INJECTED from /Users/lucker/Apps/spinroad-android/android/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/lucker/.android/build-cache/3545f51b2cc7835bfe0cbc78e1e20f51b1d29b8b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/lucker/.android/build-cache/21354032763e94571f2f7d4dbac522f56593af36/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/lucker/.android/build-cache/bfb6d31e8a0d1138c64c954fb35a28171cf806a4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/lucker/.android/build-cache/b0ae2edac764b8dd237f84a8670f5d5ded8edd49/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/lucker/.android/build-cache/f12b35db11c313860dee56281e06301c329d47e1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/lucker/.android/build-cache/f84af2fb5a4dbe5e17b5694a037bdba63c02973c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] /Users/lucker/.android/build-cache/2e1142f01e17fb5d0f7eb7231b9ce9194d6a37c4/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/lucker/.android/build-cache/34df1ede0f869b199d164895fe4cea0c12da25ad/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/lucker/.android/build-cache/349305e1aa313502b3c798ac6ae2216d313ea7a3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/lucker/.android/build-cache/6aa09504bbfc6643a251921f8bee15060e42dd20/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/lucker/.android/build-cache/b34b8632a50cea7f8821e57f40ac4372511f9a5e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/lucker/.android/build-cache/91a0263c34d3f7cba790ea58793922a3170d1adf/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/lucker/.android/build-cache/a08e2e07d910f0c6d3cf2369c574455e8815c939/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/lucker/.android/build-cache/807a0148cc1a86023f1c18d06fdb77944c801749/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/lucker/.android/build-cache/1f9d0f6d8c003aae46b5c9c0f2474201fd0b23f0/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/lucker/.android/build-cache/c5217957c8bac8d5b3a2fc1e481294ed3dc9ec7e/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/lucker/.android/build-cache/1f9d0f6d8c003aae46b5c9c0f2474201fd0b23f0/output/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/lucker/.android/build-cache/1f9d0f6d8c003aae46b5c9c0f2474201fd0b23f0/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/lucker/.android/build-cache/1f9d0f6d8c003aae46b5c9c0f2474201fd0b23f0/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/lucker/.android/build-cache/1f9d0f6d8c003aae46b5c9c0f2474201fd0b23f0/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/lucker/.android/build-cache/1f9d0f6d8c003aae46b5c9c0f2474201fd0b23f0/output/AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/lucker/.android/build-cache/c5217957c8bac8d5b3a2fc1e481294ed3dc9ec7e/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/lucker/.android/build-cache/c5217957c8bac8d5b3a2fc1e481294ed3dc9ec7e/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:27:17-104
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/lucker/.android/build-cache/c5217957c8bac8d5b3a2fc1e481294ed3dc9ec7e/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/lucker/.android/build-cache/ea771763b1cc45f10a965363e62a9e10035e91f7/output/AndroidManifest.xml:33:16-90
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/lucker/.android/build-cache/6c1bd59157140cef5f0cea2e10f4d656b5beb40b/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/lucker/.android/build-cache/6c1bd59157140cef5f0cea2e10f4d656b5beb40b/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/lucker/.android/build-cache/6c1bd59157140cef5f0cea2e10f4d656b5beb40b/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/lucker/.android/build-cache/6c1bd59157140cef5f0cea2e10f4d656b5beb40b/output/AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/lucker/.android/build-cache/9eb0969a9bac9a2bf45794e68c056132a2d87e5b/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/lucker/.android/build-cache/9eb0969a9bac9a2bf45794e68c056132a2d87e5b/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/lucker/.android/build-cache/9eb0969a9bac9a2bf45794e68c056132a2d87e5b/output/AndroidManifest.xml:23:18-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/lucker/.android/build-cache/efb9fb884400ae5cee17d31c4e4c2037c8ee26de/output/AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/lucker/.android/build-cache/5d6d3a5a249cbc1b18ab0adf7331a0e78201c527/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/lucker/.android/build-cache/5d6d3a5a249cbc1b18ab0adf7331a0e78201c527/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/lucker/.android/build-cache/5d6d3a5a249cbc1b18ab0adf7331a0e78201c527/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/lucker/.android/build-cache/5d6d3a5a249cbc1b18ab0adf7331a0e78201c527/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/lucker/.android/build-cache/5d6d3a5a249cbc1b18ab0adf7331a0e78201c527/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/lucker/.android/build-cache/cba2c489ba4921b2dbd47e7d96db2c4a52109aa6/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/lucker/.android/build-cache/cba2c489ba4921b2dbd47e7d96db2c4a52109aa6/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/lucker/.android/build-cache/cba2c489ba4921b2dbd47e7d96db2c4a52109aa6/output/AndroidManifest.xml:20:20-65
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.27.0] /Users/lucker/.android/build-cache/e09230f7da90695007907538d6ec17a8b60ba813/output/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /Users/lucker/.android/build-cache/e09230f7da90695007907538d6ec17a8b60ba813/output/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/lucker/.android/build-cache/584192dab2114e9f40d73be5d84b1e71f1a577d9/output/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/lucker/.android/build-cache/584192dab2114e9f40d73be5d84b1e71f1a577d9/output/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/lucker/.android/build-cache/584192dab2114e9f40d73be5d84b1e71f1a577d9/output/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/lucker/.android/build-cache/584192dab2114e9f40d73be5d84b1e71f1a577d9/output/AndroidManifest.xml:40:13-70

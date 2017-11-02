@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lucker/Apps/spinroad-android/android/build/intermediates/res/merged/debug/drawable-mdpi-v11/ic_stat_spinner.png",
+        "source": "/Users/lucker/Apps/spinroad-android/android/res/drawable-mdpi-v11/ic_stat_spinner.png"
+    },
+    {
+        "merged": "/Users/lucker/Games/SpinRoad/android/build/intermediates/res/merged/debug/drawable-mdpi-v11/ic_stat_spinner.png",
+        "source": "/Users/lucker/Games/SpinRoad/android/res/drawable-mdpi-v11/ic_stat_spinner.png"
+    }
+]
